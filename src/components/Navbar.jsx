@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { BiMenu } from "react-icons/bi";
 
 import "./components.css";
+import Logo from "../images/Logo.png";
 
 const Navbar = () => {
     const [menuText, setMenuText] = useState("Menu");
@@ -17,7 +18,7 @@ const Navbar = () => {
     return (
         <div className='container'>
             <div className='logo'>
-                <img src="https://deltasuper.in/wp-content/uploads/2021/05/delta-super-logo.svg" alt="app-logo" ></img>
+                <img src={Logo} alt="app-logo" ></img>
             </div>
             <div>
                 <ul className='tags'>

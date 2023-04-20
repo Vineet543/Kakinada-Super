@@ -4,7 +4,7 @@ const LeaderShip = () => {
     return (
         <>
             <div className='leaderContainer'>
-                <h1>Delta Super Leadership</h1>
+                <h1>Kakinada Super Leadership</h1>
                 <img src='https://deltasuper.in/wp-content/uploads/2023/02/sudarshan-simhan-150x150.png' />
                 <h2>Sudarshan Simhan</h2>
                 <p>I’m a People Resource Person who enjoys in bringing together the Network of Connections for Success, Happiness, Wealth in the Digital Age.
@@ -18,9 +18,9 @@ const LeaderShip = () => {
                     I count on the power of connections not just between people, but between passion and productivity, between value and profit, between authenticity and purpose, and between heart and your wallet.</p>
             </div>
             <div className='leaderContainer'>
-                <img src='https://deltasuper.in/wp-content/uploads/2023/02/Ramabadran-S-eSamThanjavur-150x150.jpg' />
+                <img src='https://deltasuper.in/wp-content/uploads/2023/02/Ramabadran-S-eSamKakinada-150x150.jpg' />
                 <h2>Ramabadran S</h2>
-                <p>Rooted in the hometown of Thanjavur I’ve been nurturing stronger value-based relationships.
+                <p>Rooted in the hometown of Kakinada I’ve been nurturing stronger value-based relationships.
 
                     My call to action is to build value-based team, develop transformational attitude and cultivate field of creativity.
 

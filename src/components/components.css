@@ -14,7 +14,9 @@ a{
     align-items: center;
 }
 .logo img{
-    width: 60%;
+    max-width: 10em;
+    margin: 0 1em;
+    height: auto;
 }
 .tags li img {
     width: 50%;
@@ -268,16 +270,18 @@ a{
 .footer_container{
     background-color: #5E3A9E;
     color: white;
+    height: 50vh;
 }
 .footer1{
-    padding: 6%;
+    padding: 3%;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
 }
 .footer1 img{
-    width: 20%;
+    margin: 0 1em;
+    max-width: 10em;
 }
 .footer_list a{
     color: white;
@@ -328,6 +332,9 @@ a{
     .menu{
         display: flex;
     }
+    .logo img{
+        max-width: 8em;
+    }
     
         .hero_container h1{
             font-size: 5.14vw;
@@ -359,8 +366,7 @@ a{
             font-size: 8vw;
         }
         .setUp_content p{
-            line-height: 8vw;
-            font-size: 4vw;
+            font-size: 1em;
         }
         .story_container{
             flex-direction: column;
@@ -398,4 +404,4 @@ a{
         justify-content: center;
         align-items: center;
        }
-}
+    }

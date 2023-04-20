@@ -21,7 +21,7 @@ const HeroPage = () => {
                 <div className='hero_container'>
                     <h1>Kakinada's Local shops <br />are now Online</h1>
                     <Link to="./contact"><button>
-                        Start selling on Delta Super
+                        Start selling on Kakinada Super
                     </button></Link>
                 </div>
                 <div id="shop" className='hero_sec_container'>

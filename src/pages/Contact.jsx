@@ -14,18 +14,12 @@ const Contact = () => {
                 </div>
                 <h4>Call us to learn more</h4>
                 <div className='contact_content'>
-                    <p className='paragraph'>Kakinada Circle</p>
+                    <p className='paragraph'>Kakinada Super</p>
 
-                    Ms Shrilakshmi Acharya <br />
-                    +91 99450 77575
-                    <p className='paragraph'> Operations Team</p>
+                    Venkat Chinta <br />
 
-                    Mr Ashwin Pai<br />
-                    +91 99459 62828
-                    <p className='paragraph'>Delivery Team</p>
-
-                    Mr Adithya Bhat
-                    +91 99459 32828
+                    <p className='paragraph'> Email</p>
+                    venkatchinta75@gmail.com
 
                 </div>
             </div>

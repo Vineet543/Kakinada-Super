@@ -11,7 +11,7 @@ const LandingPage = () => {
                 <HeroPage />
                 <SetUp />
                 <Story />
-                <LeaderShip />
+                {/* <LeaderShip /> */}
             </section>
             <Footer />
         </>
