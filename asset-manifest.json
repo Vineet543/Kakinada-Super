@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vineet/static/css/main.fefa6d5d.css",
+    "main.js": "/vineet/static/js/main.6972ec71.js",
+    "static/media/person.png": "/vineet/static/media/person.b4d2574b9c47fc983ce8.png",
+    "static/media/Logo.png": "/vineet/static/media/Logo.fbb7990ef4766d4cf629.png",
+    "static/media/Appimage.png": "/vineet/static/media/Appimage.cfb1f0770c6065a48bbb.png",
+    "static/media/top-bg.png": "/vineet/static/media/top-bg.268a4d01bd20370241c9.png",
+    "index.html": "/vineet/index.html",
+    "main.fefa6d5d.css.map": "/vineet/static/css/main.fefa6d5d.css.map",
+    "main.6972ec71.js.map": "/vineet/static/js/main.6972ec71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fefa6d5d.css",
+    "static/js/main.6972ec71.js"
+  ]
+}
